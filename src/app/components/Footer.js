@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="bg-gray-800 text-white py-8">
 
 
-            <div className="w-full px-8 flex justify-between items-center">
+            <div className="w-full  px-8 flex justify-between items-center">
 
                 <div>
                     <p>&copy; {currentYear} Marcenaria Menozzi. Todos os direitos reservados.</p>
