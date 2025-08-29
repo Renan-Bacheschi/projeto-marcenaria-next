@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold">Página Inicial da Marcenaria</h1>
       <p className="mt-4">Marcenaria</p>
     </main>
-    <Footer/>
+    
     </>
   );
 }
