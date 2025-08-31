@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="w-full px-8 flex justify-between items-center">
 
                 <div>
-                    <p>&copy; {currentYear} Marcenaria Menozzzzzzzi. Todos os direitos reservados.</p>
+                    <p>&copy; {currentYear} Marcenaria Menozzi. Todos os direitos reservados.</p>
                 </div>
                 <div className="flex gap-4">
                     <a href="#" className="hover:text-lime-500 transition-colors">Facebook</a>
