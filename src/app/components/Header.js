@@ -2,18 +2,17 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import {Menu , X} from 'lucide-react';
+import {Menu} from 'lucide-react';
 
 const Header = () => {
 
-    const [menuAberto, setMenuAberto] = useState(false);
+  const [menuAberto, setMenuAberto] = useState(false);
 
-    return (
+  return (
         <header className='bg-verde-salvia'>
 
-        </header>
-    )
+    </header>
+  );
 };
- export default Header;
 
-
+export default Header;
